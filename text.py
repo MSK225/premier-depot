@@ -1,0 +1,1 @@
+print("bonjour , mon laboratoire est prêt!")
